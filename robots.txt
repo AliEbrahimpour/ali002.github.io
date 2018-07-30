@@ -1,0 +1,11 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "url": "http://123ali.ir",
+  "contactPoint": [
+    { "@type": "ContactPoint",
+      "telephone": "+98-915-658-3780",
+      "contactType": "customer service"
+    }
+  ]
+}
